@@ -28,9 +28,9 @@ Modèle 3D du boîtier pour l'écran et la carte :
 
 ## Matériel
 
-- Carte **ESP32-S3 DevKitC-1-N16R8** (16 Mo de flash, 8 Mo de PSRAM).
-- Écran **BIGTREETECH TFT35 SPI V2.1** : 3,5 pouces, 480 × 320, contrôleur ILI9488, tactile NS2009 (I2C), alimentation 5 V.
-- **Breakout USB-C à 14 broches avec résistances**, pour l'alimentation en 5 V.
+- Carte [**ESP32-S3 DevKitC-1-N16R8**](https://www.amazon.fr/dp/B0G4W9KRB1?tag=14492909-20) (16 Mo de flash, 8 Mo de PSRAM).
+- Écran [**BIGTREETECH TFT35 SPI V2.1**](https://biqu.equipment/fr-eu/products/bigtreetech-tft35-spi-v2-1-touchscreen-io2can-module) : 3,5 pouces, 480 × 320, contrôleur ILI9488, tactile NS2009 (I2C), alimentation 5 V.
+- [**Breakout USB-C à 14 broches avec résistances**](https://www.amazon.fr/dp/B0H49KCJGX?tag=14492909-20), pour l'alimentation en 5 V.
 
 Le brochage complet est dans le mode d'emploi (annexe) et dans le schéma ci-dessous.
 
