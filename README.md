@@ -7,6 +7,7 @@ Fonctions : accueil avec températures en direct, réglages du Wi-Fi (recherche 
 ## Documentation
 
 - [Mode d'emploi (PDF)](docs/mode_emploi_klipper.pdf) : chaque écran et chaque action, avec les maquettes, puis la notice de téléversement du firmware (USB et Wi-Fi) et le changement du mot de passe OTA.
+- [Étiquette pour l'écran (SVG)](docs/etiquette_ecran.svg) : à imprimer à 100 % (sans mise à l'échelle), format 85 × 128 mm avec une marge de 10 mm autour du sticker de 65 × 108 mm. La fenêtre est découpée pour laisser voir l'écran.
 
 ## Contenu
 
