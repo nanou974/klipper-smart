@@ -2,7 +2,7 @@
 
 Écran de contrôle pour imprimante 3D Klipper, sur carte ESP32-S3 avec écran tactile ILI9488 320 × 480 (contrôleur tactile NS2009).
 
-Fonctions : accueil avec températures en direct, réglages du Wi-Fi (recherche des réseaux) et de l'adresse IP de l'imprimante, orientation portrait ou portrait inversé, déplacements et homing, températures et clavier de cible, extrusion, ventilateur, suivi d'impression avec réglage du Z offset, choix et lancement de fichiers G-code.
+Fonctions : accueil avec températures en direct, réglages du Wi-Fi (recherche des réseaux) et de l'adresse IP de l'imprimante, orientation portrait ou portrait inversé, déplacements et homing, températures, extrusion, ventilateur, suivi d'impression avec réglage du Z offset, choix et lancement de fichiers G-code.
 
 ## Documentation
 
