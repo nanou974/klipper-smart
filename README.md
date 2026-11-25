@@ -19,6 +19,13 @@ Fonctions : accueil avec températures en direct, réglages du Wi-Fi (recherche 
 - `klipper_api.h` : communication avec Moonraker.
 - `LGFX_Config.h` : configuration de l'écran.
 
+## Boîtier
+
+Modèle 3D du boîtier pour l'écran et la carte :
+
+- [Projet d'impression (3MF)](docs/boitier/KlipperSmart_case.3mf) : prêt à découper dans votre slicer.
+- [Modèle CAO (STEP)](docs/boitier/KlipperSmart.step) : pour modifier la pièce dans un logiciel de CAO.
+
 ## Matériel
 
 - Carte **ESP32-S3 DevKitC-1-N16R8** (16 Mo de flash, 8 Mo de PSRAM).
