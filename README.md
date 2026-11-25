@@ -19,9 +19,9 @@ Fonctions : accueil avec températures en direct, réglages du Wi-Fi (recherche 
 
 ## Matériel
 
-- Carte ESP32-S3 (16 Mo de flash, PSRAM OPI).
-- Écran TFT35 SPI 3,5 pouces, 320 × 480, contrôleur ILI9488, tactile NS2009 (I2C).
-- Breakout USB-C, pour l'alimentation en 5 V.
+- Carte **ESP32-S3 DevKitC-1-N16R8** (16 Mo de flash, 8 Mo de PSRAM).
+- Écran **BIGTREETECH TFT35 SPI V2.1** : 3,5 pouces, 480 × 320, contrôleur ILI9488, tactile NS2009 (I2C), alimentation 5 V.
+- **Breakout USB-C à 14 broches avec résistances**, pour l'alimentation en 5 V.
 
 Le brochage complet est dans le mode d'emploi (annexe) et dans le schéma ci-dessous.
 
