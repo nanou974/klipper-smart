@@ -4,6 +4,10 @@
 
 Fonctions : accueil avec températures en direct, réglages du Wi-Fi (recherche des réseaux) et de l'adresse IP de l'imprimante, orientation portrait ou portrait inversé, déplacements et homing, températures et clavier de cible, extrusion, ventilateur, suivi d'impression avec réglage du Z offset, choix et lancement de fichiers G-code.
 
+## Documentation
+
+- [Mode d'emploi (PDF)](docs/mode_emploi_klipper.pdf) : chaque écran et chaque action, avec les maquettes, puis la notice de téléversement du firmware (USB et Wi-Fi) et le changement du mot de passe OTA.
+
 ## Contenu
 
 - `KlipperSmart.ino` : programme principal (Wi-Fi, tactile, mise à jour Moonraker, mise à jour Wi-Fi).
